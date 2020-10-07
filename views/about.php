@@ -1,5 +1,7 @@
 <?php
   $gioithieu=$data->gioithieu(7);
+$gioithieu=$data->gioithieu(7);
+$gioithieu=$data->gioithieu(7);
 ?>
 <div class="page-head" style="background: url(<?=$gioithieu['hinh_anh']?>) no-repeat center;">
   <div class="container">
